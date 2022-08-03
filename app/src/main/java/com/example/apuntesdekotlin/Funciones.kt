@@ -9,6 +9,9 @@ fun main(){
     miPrimeraFuncion("Argumentos")
 
 
+    fun mwcagoentodo(){
+        println("Estoy hasta el navo")
+    }
 
 }//Fin de la funcion principal main.
 //-------------------------------------------------------------------------------------------------
